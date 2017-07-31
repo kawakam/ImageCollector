@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "< Back"; ObjectID = "B5g-gN-JFj"; */
+"B5g-gN-JFj.normalTitle" = "< Back";
+
+/* Class = "UITextField"; placeholder = "@UserName"; ObjectID = "Omo-Mv-pLv"; */
+"Omo-Mv-pLv.placeholder" = "@UserName";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "SEI-eG-4Sl"; */
+"SEI-eG-4Sl.normalTitle" = "Save";
+
+/* Class = "UIViewController"; title = "FirstViewController"; ObjectID = "ZGj-bI-SWn"; */
+"ZGj-bI-SWn.title" = "FirstViewController";
+
+/* Class = "UIButton"; normalTitle = "Save All"; ObjectID = "hW9-63-A40"; */
+"hW9-63-A40.normalTitle" = "Save All";
+
+/* Class = "UIButton"; normalTitle = "Read More"; ObjectID = "vYx-FE-9z6"; */
+"vYx-FE-9z6.normalTitle" = "Read More";
+
+/* Class = "UIButton"; normalTitle = "Get Images!"; ObjectID = "yvf-WX-hGH"; */
+"yvf-WX-hGH.normalTitle" = "Get Images!";
